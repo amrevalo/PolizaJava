@@ -10,5 +10,13 @@ package poliza_de_seguros;
  * @author a022593391p
  */
 public class Contrato_de_seguros {
+    /**
+     * id del contrato
+     */
+    private String id;
+    /**
+     * a que persona pertenece el contrato
+     */
+    private String titular;
     
 }
