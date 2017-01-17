@@ -7,7 +7,7 @@ package poliza_de_seguros;
 
 /**
  *
- * @author a022593391p
+ * @author alberto
  */
 public class Poliza_de_seguros {
 
