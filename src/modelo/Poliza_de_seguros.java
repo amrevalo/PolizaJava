@@ -47,7 +47,10 @@ public class Poliza_de_seguros {
     }
 
     
-    
+    @Override
+    public String toString() {
+        return "Poliza{" + "id=" + id + ", tipo de poliza=" + tipoPoliza1 + '}';
+    }
     
     
 }

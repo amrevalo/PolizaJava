@@ -44,4 +44,10 @@ public class Compañia_de_seguros {
         this.nombre = nombre;
     }
     
+    
+    @Override
+    public String toString() {
+        return "Compañia{" + "id=" + id + ", nombre=" + nombre + '}';
+    }
+    
 }
