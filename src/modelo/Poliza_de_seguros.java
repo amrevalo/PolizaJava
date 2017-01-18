@@ -16,7 +16,7 @@ public class Poliza_de_seguros {
      */
     private String id;
     /**
-     * variable privada tipopoliza para su descripcion
+     * variable privada tipopoliza para su descripcion aa
      */
     private String tipoPoliza1;
    
