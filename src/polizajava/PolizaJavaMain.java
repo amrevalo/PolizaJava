@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package poliza_de_seguros;
+package polizajava;
 
 /**
  *
  * @author alberto
  */
-public class Poliza_de_seguros {
+public class PolizaJavaMain {
 
     /**
      * @param args the command line arguments
